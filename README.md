@@ -9,6 +9,7 @@
 |Name|Description|Language|
 |----|-----------|--------|
 |[wapanel](https://github.com/Firstbober/wapanel)|Desktop panel/bar for Wayland|GTK3, C++|
+|[netcanv](https://github.com/liquidev/netcanv)|Contributed: textboxes, dark theme, and other stuff|Rust|
 |[krita-rpc](https://github.com/Firstbober/krita-rpc)|Discord Rich Protocol for Krita|Krita, Python|
 |[boberhole-server (v2)](https://github.com/Firstbober/boberhole-server)|Server for Boberhole, not really useful without a client 😄|Typescript|
 |[pmOS for Wiko View](https://wiki.postmarketos.org/wiki/Wiko_View_(wiko-v12bnlite))| A port of postmarketOS for Wiko View| y e s |
@@ -24,6 +25,7 @@
 |[comes-adventures](https://github.com/comes-group/comes-adventures)|Adventures of COMES|Typescript|
 |[comes-desktop](https://github.com/comes-group/desktop)|COMES desktop shell for Wayland|GTK3, C++|
 |cpp-rusted|Port of some elements from Rust like Result and try!() to C++|C++|
+|[Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)|Contributed V language book| y e s |
 
 <!--
 **Firstbober/Firstbober** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
