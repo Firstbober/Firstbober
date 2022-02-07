@@ -29,15 +29,7 @@
 
 #### Skills
 
-<img align="left" width="22px" src="./icons/cplusplus.svg">
-<img align="left" width="22px" src="./icons/csharp.svg">
-<img align="left" width="22px" src="./icons/javascript.svg">
-<img align="left" width="22px" src="./icons/typescript.svg">
-<img align="left" width="22px" src="./icons/python.svg">
-<img align="left" width="22px" src="./icons/react.svg">
-<img align="left" width="22px" src="./icons/git.svg">
-<img align="left" width="22px" src="./icons/linux.svg">
-<img align="left" width="22px" src="./icons/nextjs.svg">
+<img align="left" height="72px" src="./icons/logos.svg">
 <br />
 
 <!--
