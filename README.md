@@ -27,6 +27,19 @@
 |cpp-rusted|Port of some elements from Rust like Result and try!() to C++|C++|
 |[Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)|Contributed V language book| y e s |
 
+#### Skills
+
+<img align="left" width="22px" src="./icons/cplusplus.svg">
+<img align="left" width="22px" src="./icons/csharp.svg">
+<img align="left" width="22px" src="./icons/javascript.svg">
+<img align="left" width="22px" src="./icons/typescript.svg">
+<img align="left" width="22px" src="./icons/python.svg">
+<img align="left" width="22px" src="./icons/react.svg">
+<img align="left" width="22px" src="./icons/git.svg">
+<img align="left" width="22px" src="./icons/linux.svg">
+<img align="left" width="22px" src="./icons/nextjs.svg">
+<br />
+
 <!--
 **Firstbober/Firstbober** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
