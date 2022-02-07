@@ -29,7 +29,7 @@
 
 #### Skills
 
-<img align="left" height="72px" src="./icons/logos.svg">
+<img align="left" height="72px" src="./logos.svg">
 <br />
 
 <!--
