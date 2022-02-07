@@ -11,7 +11,7 @@
    viewBox="0 0 306 344.35"
    enable-background="new 0 0 306 344.35"
    xml:space="preserve"
-   sodipodi:docname="ISO_C++_Logo.svg"
+   sodipodi:docname="cplusplus.svg"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -38,17 +38,17 @@
    fill="#00599C"
    d="M302.107,258.262c2.401-4.159,3.893-8.845,3.893-13.053V99.14c0-4.208-1.49-8.893-3.892-13.052L153,172.175  L302.107,258.262z"
    id="path2"
-   style="fill:#f9f9f9;stroke:#000000;stroke-opacity:1" />
+   style="fill:#f9f9f9;stroke:#000000;stroke-opacity:1;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none" />
 <svg:path
    fill="#004482"
    d="M166.25,341.193l126.5-73.034c3.644-2.104,6.956-5.737,9.357-9.897L153,172.175L3.893,258.263  c2.401,4.159,5.714,7.793,9.357,9.896l126.5,73.034C147.037,345.401,158.963,345.401,166.25,341.193z"
    id="path4"
-   style="fill:#ffffff;stroke:#000000;stroke-opacity:1" />
+   style="fill:#ffffff;stroke:#000000;stroke-opacity:1;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none" />
 <svg:path
    fill="#659AD2"
    d="M302.108,86.087c-2.402-4.16-5.715-7.793-9.358-9.897L166.25,3.156c-7.287-4.208-19.213-4.208-26.5,0  L13.25,76.19C5.962,80.397,0,90.725,0,99.14v146.069c0,4.208,1.491,8.894,3.893,13.053L153,172.175L302.108,86.087z"
    id="path6"
-   style="fill:#ffffff;stroke:#000000;stroke-opacity:1" />
+   style="fill:#ffffff;stroke:#000000;stroke-opacity:1;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none" />
 <svg:g
    id="g10"
    style="fill:#000000">
