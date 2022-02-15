@@ -1,21 +1,21 @@
-### Hello and, again, welcome to my profile
+### Welcome
 
-- I mostly code in C++, Rust, Python and JS/TS
-- Everyday linux user and sometimes gamer
-- I like doing stupid stuff
+I am a self-taught full stack and desktop developer. I feel pretty good about using React, Next.js, Typescript, Rust, Python and C++.
 
-#### Some more notable projects of mine
+Sometimes I am too ambitious with my projects, but I always try to make it work!
+
+#### Here is a list with some larger things of mine
 
 |Name|Description|Language|
 |----|-----------|--------|
+|[rasagi](https://github.com/Firstbober/rasagi)|Simple server powered RSS feed reader|Next.js, Typescript| 
 |[wapanel](https://github.com/Firstbober/wapanel)|Desktop panel/bar for Wayland|GTK3, C++|
 |[netcanv](https://github.com/liquidev/netcanv)|Contributed: textboxes, dark theme, and other stuff|Rust|
 |[krita-rpc](https://github.com/Firstbober/krita-rpc)|Discord Rich Protocol for Krita|Krita, Python|
-|[boberhole-server (v2)](https://github.com/Firstbober/boberhole-server)|Server for Boberhole, not really useful without a client 😄|Typescript|
 |[pmOS for Wiko View](https://wiki.postmarketos.org/wiki/Wiko_View_(wiko-v12bnlite))| A port of postmarketOS for Wiko View| y e s |
 |Boberhole v1|A simple all-in-one social platform in 2000's style|JS, HTML, CSS|
 
-#### Some experiments or straight silly stuff
+#### Everyone likes to experiment and have fun, right?
 
 |Name|Description|Language|
 |----|-----------|--------|
@@ -29,7 +29,7 @@
 
 #### Skills
 
-<img align="left" height="72px" src="./logos.svg">
+<img align="center" height="72px" src="./logos.svg">
 <br />
 
 <!--
