@@ -8,7 +8,8 @@ Sometimes I am too ambitious with my projects, but I always try to make it work!
 
 |Name|Description|Language|
 |----|-----------|--------|
-|[rasagi](https://github.com/Firstbober/rasagi)|Simple server powered RSS feed reader|Next.js, Typescript| 
+|[airqi](https://github.com/Firstbober/airqi)|Simple web app to look up air quality for your city|Next.js, Tailwind, Typescript| 
+|[rasagi](https://github.com/Firstbober/rasagi)|Simple server powered RSS feed reader|Next.js, MUI, Typescript| 
 |[wapanel](https://github.com/Firstbober/wapanel)|Desktop panel/bar for Wayland|GTK3, C++|
 |[netcanv](https://github.com/liquidev/netcanv)|Contributed: textboxes, dark theme, and other stuff|Rust|
 |[krita-rpc](https://github.com/Firstbober/krita-rpc)|Discord Rich Protocol for Krita|Krita, Python|
