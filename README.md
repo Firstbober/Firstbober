@@ -13,7 +13,7 @@ Sometimes I am too ambitious with my projects, but I always try to make it work!
 |[wapanel](https://github.com/Firstbober/wapanel)|Desktop panel/bar for Wayland|GTK3, C++|
 |[netcanv](https://github.com/liquidev/netcanv)|Contributed: textboxes, dark theme, and other stuff|Rust|
 |[krita-rpc](https://github.com/Firstbober/krita-rpc)|Discord Rich Protocol for Krita|Krita, Python|
-|[pmOS for Wiko View](https://wiki.postmarketos.org/wiki/Wiko_View_(wiko-v12bnlite))| A port of postmarketOS for Wiko View| y e s |
+|[pmOS for Wiko View](https://wiki.postmarketos.org/wiki/Wiko_View_(wiko-v12bnlite))| A port of postmarketOS for Wiko View| - |
 |Boberhole v1|A simple all-in-one social platform in 2000's style|JS, HTML, CSS|
 
 #### Everyone likes to experiment and have fun, right?
@@ -26,7 +26,7 @@ Sometimes I am too ambitious with my projects, but I always try to make it work!
 |[comes-adventures](https://github.com/comes-group/comes-adventures)|Adventures of COMES|Typescript|
 |[comes-desktop](https://github.com/comes-group/desktop)|COMES desktop shell for Wayland|GTK3, C++|
 |cpp-rusted|Port of some elements from Rust like Result and try!() to C++|C++|
-|[Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)|Contributed V language book| y e s |
+|[Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)|Contributed V language book| - |
 
 #### Skills
 
