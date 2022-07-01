@@ -4,7 +4,7 @@ I am a self-taught full stack and desktop developer. I feel pretty good about us
 
 Sometimes I am too ambitious with my projects, but I always try to make it work!
 
-#### Here is a list with some larger things of mine
+#### My major projects
 
 |Name|Description|Language|
 |----|-----------|--------|
@@ -16,7 +16,7 @@ Sometimes I am too ambitious with my projects, but I always try to make it work!
 |[pmOS for Wiko View](https://wiki.postmarketos.org/wiki/Wiko_View_(wiko-v12bnlite))| A port of postmarketOS for Wiko View| - |
 |Boberhole v1|A simple all-in-one social platform in 2000's style|JS, HTML, CSS|
 
-#### Everyone likes to experiment and have fun, right?
+#### Some smaller ones
 
 |Name|Description|Language|
 |----|-----------|--------|
