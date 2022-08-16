@@ -2,7 +2,7 @@
 
 I am a self-taught full stack and desktop developer. I feel pretty good about using technologies such as React, Next.js, Typescript, Rust, Python and C++.
 
-#### Applications
+#### Websites, applications etc.
 
 |Name|Description|Technologies|
 |----|-----------|------------|
@@ -10,8 +10,14 @@ I am a self-taught full stack and desktop developer. I feel pretty good about us
 |[rasagi](https://github.com/Firstbober/rasagi)|Simple server powered RSS feed reader|Next.js, MUI, Typescript| 
 |[wapanel](https://github.com/Firstbober/wapanel)|Desktop panel/bar for Wayland|GTK3, C++|
 |[netcanv](https://github.com/liquidev/netcanv)|Contributed: textboxes, dark theme, and other stuff|Rust|
-|[pmOS for Wiko View](https://wiki.postmarketos.org/wiki/Wiko_View_(wiko-v12bnlite))| A port of postmarketOS for Wiko View| - |
 |Boberhole v1|A simple all-in-one social platform in 2000's style|JS, HTML, CSS|
+
+#### Games and other
+|Name|Description|Technologies|
+|----|-----------|------------|
+|[pmOS for Wiko View](https://wiki.postmarketos.org/wiki/Wiko_View_(wiko-v12bnlite))|A port of postmarketOS for Wiko View| - |
+|[De, shinde burauza no Web gēmu ni risupōn shita](https://firstbober.itch.io/de-shinde-burauza-no-web-gmu-ni-risupn-shita)|Browser game made for Wowie Jam 4.0|Godot, DALL-E Mini|
+
 
 #### Libraries and plugins
 
