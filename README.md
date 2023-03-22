@@ -17,7 +17,11 @@ I am a self-taught full stack and desktop developer. I feel pretty good about us
 |----|-----------|------------|
 |[pmOS for Wiko View](https://wiki.postmarketos.org/wiki/Wiko_View_(wiko-v12bnlite))|A port of postmarketOS for Wiko View| - |
 |[De, shinde burauza no Web gēmu ni risupōn shita](https://firstbober.itch.io/de-shinde-burauza-no-web-gmu-ni-risupn-shita)|Browser game made for Wowie Jam 4.0|Godot, DALL-E Mini|
-
+|[abridged-word2vec](https://github.com/Firstbober/abridged-word2vec)|word2vec implementation experiment without neural networks|JS|
+|[rocm-pytorch-gfx803-docker](https://github.com/Firstbober/rocm-pytorch-gfx803-docker)|A Docker image based on rocm/pytorch with support for gfx803|Dockerfile|
+|[hmielOS](https://github.com/Firstbober/hmielOS)|Browser operating system experiment with UNIX-like interfaces|TypeScript|
+|[discord-fs](https://github.com/Firstbober/discord-fs)|FUSE File System implemented in TS and encrypted Discord attachments|TypeScript, NodeJS|
+|[kremowkuj](https://github.com/Firstbober/kremowkuj)|CVM Implementation in Rust|Rust|
 
 #### Libraries and plugins
 
@@ -27,6 +31,9 @@ I am a self-taught full stack and desktop developer. I feel pretty good about us
 |[cpp-eval](https://github.com/Firstbober/cpp-eval)|eval() for C++|Python, C++|
 |[cpp-xmled](https://github.com/Firstbober/cppxmled)|JSX but for C++|Python, C++|
 |cpp-rusted|Port of some elements from Rust like Result and try!() to C++|C++|
+|[objectifier](https://github.com/Firstbober/objectifier)|Objective programming in C|C|
+
+
 #### Skills
 
 <img align="center" height="72px" src="./logos.svg">
